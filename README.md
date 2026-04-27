@@ -8,10 +8,12 @@ Installation:
 
 Il faut ajouter un fichier .env avec
 
-
 DB_HOST=localhost
+
 DB_USER=ton usernane
+
 DB_PASS=ton mot de passe
+
 DB_NAME=cyber_test
 
 
